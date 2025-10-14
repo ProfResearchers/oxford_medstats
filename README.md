@@ -1,5 +1,6 @@
-# oxford_medstats
-# 🧬 MedStats Research Team  
+# Oxford Handbook of Medical Statistics
+
+# 🧬 ProfResearchers Team  
 
 > *Exploring medicine through data, evidence, and reproducible analysis.*  
 
@@ -32,37 +33,37 @@ Our mission is to build a bridge between **medical knowledge** and **quantitativ
 
 ---
 
-## 📚 Core Projects  
-
-### 🧪 [Role of Antacids in Kidney Stone Formation: A Systematic Review](./antacids-kidney-stones)  
-> A registered PROSPERO systematic review exploring the association between **antacid use** and **kidney stone formation** in humans.  
-
-**Status:** Data extraction & risk of bias assessment ongoing  
-**Databases:** PubMed, Embase, Web of Science, Scopus, Cochrane CENTRAL  
-**Goal:** Clarify whether antacid exposure affects stone incidence or type through mechanistic and clinical evidence.  
-
 ---
 
 ### 📊 Oxford Medical Statistics Series  
 
-Our ongoing project applying statistical methods from the *Oxford Handbook of Medical Statistics* to clinical scenarios:  
+Our ongoing project systematically applies statistical principles and methods from the *Oxford Handbook of Medical Statistics* to real and simulated clinical research scenarios.  
+Each module focuses on one major theme or chapter from the handbook, translating theory into reproducible, hands-on analysis.
 
 | Module | Topic | Focus |
 |---------|--------|-------|
-| 01 | Descriptive & Inferential Statistics | Confidence intervals, p-values, effect sizes |
-| 02 | Logistic Regression | Clinical prediction models |
-| 03 | ROC Curve Analysis | Diagnostic test performance |
-| 04 | ANOVA & Post-hoc Tests | Comparing treatment groups |
-| 05 | Survival Analysis | Kaplan–Meier and Cox regression |
-| 06 | Meta-analysis | Combining evidence across studies |
+| 01 | Research Design | Framing clinical questions, study types, sampling, bias, confounding |
+| 02 | Collecting and Handling Data | Data collection methods, cleaning, validation, missing data |
+| 03 | Presenting Research Findings | Tables, graphs, descriptive summaries, and effective communication |
+| 04 | Statistical Software | Using R and Python for medical data analysis |
+| 05 | Summarizing Data | Measures of central tendency, variability, and data visualization |
+| 06 | Probability and Distributions | Probability concepts, normal distribution, and other key models |
+| 07 | Statistical Tests | Parametric and nonparametric hypothesis testing |
+| 08 | Diagnostic Studies | Sensitivity, specificity, predictive values, and ROC analysis |
+| 09 | Other Statistical Methods | Nonlinear models, resampling, and advanced inference tools |
+| 10 | Multiple Observations per Subject | Repeated-measures analysis and longitudinal data handling |
+| 11 | Multiple Variables per Subject | Multivariable analysis and regression modeling |
+| 12 | Meta-analysis | Combining evidence across studies and assessing heterogeneity |
+| 13 | Bayesian Statistics | Bayesian inference and clinical decision-making frameworks |
 
 Each module includes:
-- Clinical context  
-- Dataset (simulated or anonymized)  
-- R/Python code for analysis  
-- Interpretation of results  
+- A brief **clinical or epidemiological context**  
+- **Dataset** (simulated or anonymized clinical data)  
+- **R/Python code** demonstrating analysis workflow  
+- **Interpretation and discussion** of results in clinical terms  
 
 ---
+
 
 ## 🧩 Tools & Skills  
 
@@ -86,7 +87,6 @@ Our projects aim to make complex analyses transparent, teachable, and clinically
 ## 📫 Contact  
 
 If you’d like to collaborate or discuss methods:  
-📧 **medstats.research@gmail.com** *(example — replace with your team email)*  
-🌐 [Ondokuz Mayıs University Faculty of Medicine](https://www.omu.edu.tr)  
+📧 **cemalhalit03@gmail.com**
 
 ---
