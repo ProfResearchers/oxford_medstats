@@ -1,4 +1,4 @@
-# Generalized estimating equation
+#Generalized estimating equation
 
 * **What GEE is:** A method to estimate **GLM regression parameters** when observations are **correlated** (e.g., repeated measures over time).
 
