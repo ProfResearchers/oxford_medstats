@@ -1,4 +1,5 @@
-#Generalized estimating equation
+Generalized Estimating Equations (GEE)
+======================================
 
 * **What GEE is:** A method to estimate **GLM regression parameters** when observations are **correlated** (e.g., repeated measures over time).
 
@@ -22,6 +23,3 @@
 * **Trade-off:** If the correlation/variance structure is misspecified, β can remain consistent but you may lose **efficiency** → **larger SE**, potentially **less significant Wald tests** (bigger p-values).
 
 * **Common use case:** Big epidemiologic / cohort / multi-site studies where there’s **unmeasured dependence** within clusters.
-
-
-
