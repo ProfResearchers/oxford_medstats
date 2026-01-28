@@ -23,6 +23,5 @@
 
 * **Common use case:** Big epidemiologic / cohort / multi-site studies where there’s **unmeasured dependence** within clusters.
 
-<img width="793" height="126" alt="image" src="https://github.com/user-attachments/assets/c678b88a-da68-445b-8ae0-de874d222a4f" />
 
 
